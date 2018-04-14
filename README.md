@@ -12,13 +12,16 @@ File - simulation ssFAM.R: This file consists of codes for our simulation studie
 
 Folder - "tecator analysis"
 
-3.a: tecator.txt: the tecator data, its description is available on http://lib.stat.cmu.edu/datasets/tecator; 3.b: matlab code for PACE: files used to implment pace for both training data and test data;
+3.a: tecator.txt: the tecator data, its description is available on http://lib.stat.cmu.edu/datasets/tecator; 
+
+3.b: matlab code for PACE: files used to implment pace for both training data and test data;
 
 3.c: traintec.csv and testtec.csv: they contain the results from the matlab code used to implment pace for both training data and test data;
 
 3.d: Tecator analysis.R: data analysis for tecator data. Different estimation methods are compared.
 
 Folder - "pm 2.5 analysis"
+
 4.a: pm25_2000.csv: the functional predictors in the training data and test data, which is obtained from data cleaning.R,
 
 4.b: matlab code for pace: files used to implment pace for both training data and test data;
